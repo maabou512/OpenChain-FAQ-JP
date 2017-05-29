@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>Everyone is invited to participate, contribute material and to assist expanding existing material.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044253Z" creationid="nobuo imada" creationdate="20170523T101821Z">
-        <seg>私たちは、誰もが参加し、資料を提供したり既存の資料の拡張を支援することを歓迎します。</seg>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044544Z" creationid="nobuo imada" creationdate="20170523T101821Z">
+        <seg>誰もが参加を歓迎され、資料を提供したり既存の資料の拡張を支援することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project helps to identify and share the core components of a high quality Free and Open Source Software (FOSS) compliance program.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T061129Z" creationid="nobuo imada" creationdate="20170519T061129Z">
-        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは、フリー／オープンソース ソフトウェア (FOSS) についての高品質なコンプライアンスプログラムの核となる構成要素を明確化し、共有していきます。</seg>
+      <tuv lang="JA" changeid="0000011038279" changedate="20170529T003634Z" creationid="nobuo imada" creationdate="20170519T061129Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは、フリー／オープンソース ソフトウェア (FOSS) についての高品質なコンプライアンス プログラムの核となる構成要素を明確化し、共有するプロジェクトです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN-US">
         <seg>You can join the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum Mailing List&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T102654Z" creationid="nobuo imada" creationdate="20170523T101521Z">
-        <seg>まずは &lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラム メーリングリストに参加してください。&lt;t2/&gt;</seg>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044402Z" creationid="nobuo imada" creationdate="20170523T101521Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラム メーリングリストに参加してください。&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
